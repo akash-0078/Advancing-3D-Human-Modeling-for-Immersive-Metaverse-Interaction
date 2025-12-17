@@ -36,29 +36,28 @@ This system is designed for Metaverse applications, AAA gaming, and realistic te
 - **Low Latency Streaming**: A custom WebSocket bridge ensures data transfer happens in under 20ms.
 
 ---
-
 ## Model-Wise Outputs
 
 
 
-### Stage 1: 3D Rig Generator
-This module generates an animatable 3D face rig from a single image or video. It captures geometry, texture, and blendshape parameters for a neutral face.
+### Stage 1: 3D Rig Generator (Identity)
+Generates an animatable 3D face rig (Geometry and Texture) from a single neutral image. It captures the unique identity of the user.
 
-<video src="assets/stage1_rig.mp4" alt="3D Rig Generator Output" width="600"/>
-
----
-
-### Stage 2: Emotion Capture Module
-This module analyzes live video feed to predict accurate expression and emotion coefficients in real-time.
-
-<video src="assets/stage2_emotion.mp4" alt="Emotion Capture Output" width="600"/>
+https://raw.githubusercontent.com/akash-0078/Advancing-3D-Human-Modeling-for-Immersive-Metaverse-Interaction/main/assets/stage1_rig.mp4
 
 ---
 
-### Stage 3: Integrated Pipeline (Final Output)
-The final integrated system where the live emotion coefficients are streamed to drive the pre-generated 3D rig with low latency.
+### Stage 2: Emotion Capture (Expression)
+Powered by EMOCA to predict accurate expression and emotion coefficients (Arousal & Valence) in real-time from a live camera feed.
 
-<video src="assets/final_pipeline.mp4" alt="Full Integrated Pipeline Output" width="600"/>
+https://raw.githubusercontent.com/akash-0078/Advancing-3D-Human-Modeling-for-Immersive-Metaverse-Interaction/main/assets/stage2_emotion.mp4
+
+---
+
+### Stage 3: Full Integrated Pipeline
+The final result where the live emotion stream is integrated with the 3D Rig. This demonstrates the end-to-end synchronization between the user and the avatar.
+
+https://raw.githubusercontent.com/akash-0078/Advancing-3D-Human-Modeling-for-Immersive-Metaverse-Interaction/main/assets/final_pipeline.mp4
 
 ---
 ## Key Tech Stack
