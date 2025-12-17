@@ -44,21 +44,21 @@ This system is designed for Metaverse applications, AAA gaming, and realistic te
 ### Stage 1: 3D Rig Generator
 This module generates an animatable 3D face rig from a single image or video. It captures geometry, texture, and blendshape parameters for a neutral face.
 
-<img src="assets/stage1_rig.mp4" alt="3D Rig Generator Output" width="600"/>
+<video src="assets/stage1_rig.mp4" alt="3D Rig Generator Output" width="600"/>
 
 ---
 
 ### Stage 2: Emotion Capture Module
 This module analyzes live video feed to predict accurate expression and emotion coefficients in real-time.
 
-<img src="assets/stage2_emotion.mp4" alt="Emotion Capture Output" width="600"/>
+<video src="assets/stage2_emotion.mp4" alt="Emotion Capture Output" width="600"/>
 
 ---
 
 ### Stage 3: Integrated Pipeline (Final Output)
 The final integrated system where the live emotion coefficients are streamed to drive the pre-generated 3D rig with low latency.
 
-<img src="assets/final_pipeline.mp4" alt="Full Integrated Pipeline Output" width="600"/>
+<video src="assets/final_pipeline.mp4" alt="Full Integrated Pipeline Output" width="600"/>
 
 ---
 ## Key Tech Stack
