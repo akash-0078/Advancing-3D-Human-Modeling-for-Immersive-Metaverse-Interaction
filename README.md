@@ -43,21 +43,21 @@ This system is designed for Metaverse applications, AAA gaming, and realistic te
 ### Stage 1: 3D Rig Generator (Identity)
 Generates an animatable 3D face rig (Geometry and Texture) from a single neutral image. It captures the unique identity of the user.
 
-https://raw.githubusercontent.com/akash-0078/Advancing-3D-Human-Modeling-for-Immersive-Metaverse-Interaction/main/assets/stage1_rig.mp4
+https://github.com/user-attachments/assets/382d60b8-e51c-40e9-96c8-2978d55ca728
 
 ---
 
 ### Stage 2: Emotion Capture (Expression)
 Powered by EMOCA to predict accurate expression and emotion coefficients (Arousal & Valence) in real-time from a live camera feed.
 
-https://raw.githubusercontent.com/akash-0078/Advancing-3D-Human-Modeling-for-Immersive-Metaverse-Interaction/main/assets/stage2_emotion.mp4
+https://github.com/user-attachments/assets/d95d2b4f-74d9-4479-ab69-e3c4e3060d96
 
 ---
 
 ### Stage 3: Full Integrated Pipeline
 The final result where the live emotion stream is integrated with the 3D Rig. This demonstrates the end-to-end synchronization between the user and the avatar.
 
-https://raw.githubusercontent.com/akash-0078/Advancing-3D-Human-Modeling-for-Immersive-Metaverse-Interaction/main/assets/final_pipeline.mp4
+https://github.com/user-attachments/assets/7eac9456-939c-4e3e-ae0e-ef94603ce92d
 
 ---
 ## Key Tech Stack
